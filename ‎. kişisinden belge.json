@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Yüksek lisans ve doktora programlarında ders devam zorunluluğu nedir?",
+    "input": "",
+    "output": "Teorik derslerin %70’ine, uygulama derslerinin %80’ine devam etmek zorunludur."
+  },
+  {
+    "instruction": "Lisansüstü eğitimde ders ekleme-bırakma süresi ne kadardır?",
+    "input": "",
+    "output": "Dersler başladıktan sonraki ilk iki hafta içerisindedir."
+  },
+  {
+    "instruction": "Yüksek Lisans programının azami tamamlama süresi nedir?",
+    "input": "",
+    "output": "Tezli yüksek lisans programının azami tamamlama süresi 6 yarıyıldır."
+  },
+  {
+    "instruction": "Doktora programının (yüksek lisans derecesi ile) azami tamamlama süresi nedir?",
+    "input": "",
+    "output": "Yüksek lisans derecesi ile kabul edilenler için azami süre 12 yarıyıldır."
+  },
+  {
+    "instruction": "Doktora programının (lisans derecesi ile) azami tamamlama süresi nedir?",
+    "input": "",
+    "output": "Lisans derecesi ile kabul edilenler için azami süre 14 yarıyıldır."
+  },
+  {
+    "instruction": "Yüksek Lisans mezuniyeti için toplam kaç AKTS gereklidir?",
+    "input": "",
+    "output": "Mezuniyet için en az 120 AKTS kredisinin tamamlanması gerekir."
+  },
+  {
+    "instruction": "Doktora mezuniyeti için toplam kaç AKTS gereklidir?",
+    "input": "",
+    "output": "Mezuniyet için en az 240 AKTS kredisinin tamamlanması gerekir."
+  },
+  {
+    "instruction": "Bir dönemde bir öğrenci en fazla kaç ulusal kredilik ders alabilir?",
+    "input": "",
+    "output": "Normal şartlarda en çok 15 ulusal kredi، tekrar dersi varsa en fazla 18 ulusal kredi alınabilir."
+  },
+  {
+    "instruction": "Lisansüstü eğitimde kayıt dondurma süresi en fazla ne kadardır?",
+    "input": "",
+    "output": "Öğrenim süresince en çok iki yarıyıl dondurulabilir."
+  },
+  {
+    "instruction": "Bilimsel hazırlık programının süresi en fazla ne kadardır?",
+    "input": "",
+    "output": "Bilimsel hazırlıkta geçirilecek süre en fazla iki yarıyıldır."
+  },
+  {
+    "instruction": "Yüksek lisansta bir dersten başarılı sayılmak için minimum harf notu nedir?",
+    "input": "",
+    "output": "En az DC (2.50) notu alınmalıdır."
+  },
+  {
+    "instruction": "Doktorada bir dersten başarılı sayılmak için minimum harf notu nedir?",
+    "input": "",
+    "output": "En az CB (3.00) notu alınmalıdır."
+  },
+  {
+    "instruction": "Uzmanlık alanı dersinin haftalık saati ve içeriği nasıldır?",
+    "input": "",
+    "output": "6 teorik saat olarak düzenlenir ve öğrenci teze geçtiğinde her dönem alınması zorunludur."
+  },
+  {
+    "instruction": "Bir öğrenci kredili derslerinin en fazla yüzde kaçını aynı öğretim üyesinden alabilir?",
+    "input": "",
+    "output": "Kredili derslerin en fazla %50'si aynı öğretim üyesinden alınabilir."
+  },
+  {
+    "instruction": "1 AKTS kredisi kaç saatlik iş yüküne denk gelir?",
+    "input": "",
+    "output": "1 AKTS kredisi 25-30 saatlik bir iş yüküne denk gelir."
+  },
+  {
+    "instruction": "Tez konusu önerisi için Enstitüye gönderilmesi zorunlu olan formlar hangileridir?",
+    "input": "",
+    "output": "Form-30 (Tez Konusu Öneri Formu) ve Form-31 (Tez Konusu ve Planı) gönderilmesi zorunludur."
+  },
+  {
+    "instruction": "Form-30 nedir ve hangi amaçla kullanılır?",
+    "input": "",
+    "output": "Lisansüstü tez konusu öneri formudur."
+  },
+  {
+    "instruction": "Form-31 nedir ve hangi aşamada teslim edilir?",
+    "input": "",
+    "output": "Tez konusu ve çalışma planı formudur، tez önerisiyle birlikte sunulur."
+  },
+  {
+    "instruction": "Form-32 (Fikir Hak Sahipliği Beyanı) doldurulması zorunlu mudur?",
+    "input": "",
+    "output": "5846 sayılı kanun kapsamında doldurulur، ancak doldurulması isteğe bağlıdır."
+  },
+  {
+    "instruction": "Doktora 'Tez İlerleme Raporu' süreci hangi formlarla yürütülür?",
+    "input": "",
+    "output": "Form-33 (Toplantı Daveti), Form-35 (İlerleme Raporu) ve Form-36 (Toplantı Tutanağı) ile yürütülür."
+  },
+  {
+    "instruction": "Seminer sunumu sonrası başarı durumunu belgelemek için kullanılan form hangisidir?",
+    "input": "",
+    "output": "Form-24 (Seminer Değerlendirme Tutanağı) kullanılır."
+  },
+  {
+    "instruction": "Tez savunma sınavı sonrası kullanılan değerlendirme formu hangisidir?",
+    "input": "",
+    "output": "Tez Savunma Sınav Tutanağı formu kullanılır."
+  },
+  {
+    "instruction": "Danışman atama veya değişiklik işlemleri hangi form ile yapılır?",
+    "input": "",
+    "output": "Danışman Atama/Değişiklik Formu ile Enstitüye başvurulur."
+  },
+  {
+    "instruction": "Kayıt dondurma başvurusu için hangi form doldurulmalıdır?",
+    "input": "",
+    "output": "Kayıt Dondurma Talep Formu doldurulmalıdır."
+  },
+  {
+    "instruction": "Mezuniyet aşamasında kütüphane ilişik kesme belgesi zorunlu mudur?",
+    "input": "",
+    "output": "Evet، mezuniyet işlemleri için kütüphaneden ilişik kesilmesi zorunludur."
+  },
+  {
+    "instruction": "Seminer sunumu süresi ve soru-cevap bölümü ne kadar olmalıdır?",
+    "input": "",
+    "output": "En az 30 dakika sunum ve 15 dakika soru-cevap şeklinde yapılmalıdır."
+  },
+  {
+    "instruction": "Doktora yeterlik sınavına en geç hangi yarıyılda girilmelidir?",
+    "input": "",
+    "output": "Yüksek lisans derecesi olanlar en geç 5. yarıyılın، lisans derecesi olanlar en geç 7. yarıyılın sonuna kadar girmelidir."
+  },
+  {
+    "instruction": "Tez İzleme Komitesi (TİK) raporları yılda kaç kez sunulur?",
+    "input": "",
+    "output": "Yılda iki kez (Ocak-Haziran ve Temmuz-Aralık dönemlerinde) sunulur."
+  },
+  {
+    "instruction": "Doktora tez savunmasına girmek için kaç olumlu TİK raporu gereklidir?",
+    "input": "",
+    "output": "En az 3 adet olumlu TİK raporu sunulmuş olmalıdır."
+  },
+  {
+    "instruction": "Yüksek lisans tez jürisi kaç kişiden oluşur?",
+    "input": "",
+    "output": "Jüri 3 veya 5 kişiden oluşur."
+  },
+  {
+    "instruction": "Tez savunmasında jüride üniversite dışından üye bulunması zorunlu mudur?",
+    "input": "",
+    "output": "Evet، jüride en az bir üyenin üniversite dışından olması zorunludur."
+  },
+  {
+    "instruction": "Tez savunmasında tezi reddedilen öğrencinin durumu ne olur?",
+    "input": "",
+    "output": "Tezi reddedilen öğrencinin ilişiği kesilir."
+  },
+  {
+    "instruction": "Tez konusu önerisi ikinci defa reddedilen öğrencinin durumu nedir?",
+    "input": "",
+    "output": "Tez konusu ikinci defa reddedilen öğrencinin ilişiği kesilir."
+  },
+  {
+    "instruction": "FÜ-BAP Doktora Tezi projelerine başvurmadan önce yapılması gereken öncelikli işlem nedir?",
+    "input": "",
+    "output": "Proje önce TÜBİTAK’a sunulmalı، ret alınırsa FÜ-BAP’a başvurulmalıdır."
+  },
+  {
+    "instruction": "TÜBİTAK 1002 Hızlı Destek Programı'nın temel amacı nedir?",
+    "input": "",
+    "output": "Acil، kısa süreli ve küçük bütçeli projeleri desteklemektir."
+  },
+  {
+    "instruction": "San-Tez projelerinin temel hedefi nedir?",
+    "input": "",
+    "output": "Üniversite-sanayi iş birliğini kurumsallaştırmak ve akademik bilgiyi ticarileştirmektir."
+  },
+  {
+    "instruction": "Proje ekibinde yer alan 'Bursiyer' statüsündeki öğrencilerin sorumluluğu nedir?",
+    "input": "",
+    "output": "Bursiyerlerin idari sorumluluğu yoktur، bilgi artırma amaçlı projede bulunurlar."
+  },
+  {
+    "instruction": "Impact Factor (Etki Faktörü) nedir?",
+    "input": "",
+    "output": "Bir derginin aldığı atıf ortalamasına göre hesaplanan başarı ölçütüdür."
+  },
+  {
+    "instruction": "H-indeksi bir araştırmacı hakkında neyi ifade eder?",
+    "input": "",
+    "output": "Araştırmacının üretkenliğini ve yayınlarının aldığı atıf sayısını ölçen değerdir."
+  },
+  {
+    "instruction": "DOI (Digital Object Identifier) numarasının akademik yayınlardaki önemi nedir?",
+    "input": "",
+    "output": "Dijital ortamdaki yayınların kalıcı ve benzersiz adresidir."
+  },
+  {
+    "instruction": "ORCID numarası almanın amacı nedir?",
+    "input": "",
+    "output": "Araştırmacıların isim karışıklığını önlemek için verilen uluslararası kimlik numarasıdır."
+  },
+  {
+    "instruction": "JCR (Journal Citation Reports) ne için kullanılır?",
+    "input": "",
+    "output": "Dergilerin performansını ve atıf oranlarını analiz etmek için kullanılır."
+  },
+  {
+    "instruction": "Tez yazımında kullanılan dil üslubu nasıl olmalıdır?",
+    "input": "",
+    "output": "Edilgen bir dil (yapılmıştır، bulunmuştur) kullanılmalıdır."
+  },
+  {
+    "instruction": "Tez başlığı belirlenirken kelime sınırı ve içerik kuralı nedir?",
+    "input": "",
+    "output": "Tercihen 10 kelimeden az olmalı ve kısaltma içermemelidir."
+  },
+  {
+    "instruction": "Tezlerdeki 'Özet' (Abstract) bölümünün kelime sınırı nedir?",
+    "input": "",
+    "output": "150-200 kelime arası olmalı، 250'yi geçmemelidir."
+  },
+  {
+    "instruction": "Kaynakça yönetiminde Mendeley veya Zotero kullanmanın avantajı nedir?",
+    "input": "",
+    "output": "Kaynakları düzenlemeyi ve metin içi atıf yapmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Kabul edilebilir maksimum Turnitin benzerlik oranı kaçtır?",
+    "input": "",
+    "output": "Genel kural olarak benzerlik endeksi %20'nin altında olmalıdır."
+  },
+  {
+    "instruction": "Turnitin'de 'Depo Yok' (No Repository) seçeneği neden işaretlenmelidir?",
+    "input": "",
+    "output": "Tezin sisteme kaydedilip sonraki taramalarda %100 benzerlik çıkmasını engellemek için."
+  },
+  {
+    "instruction": "Etik Kurul Onayı hangi tür çalışmalarda zorunludur?",
+    "input": "",
+    "output": "İnsan veya hayvan denek içeren tüm çalışmalarda zorunludur."
+  },
+  {
+    "instruction": "IMRAD formatı akademik bir makalenin hangi bölümlerini kapsar?",
+    "input": "",
+    "output": "Giriş، Yöntem، Bulgular ve Tartışma bölümlerini kapsar."
+  },
+  {
+    "instruction": "SCI, SSCI ve AHCI indeksleri arasındaki temel fark nedir?",
+    "input": "",
+    "output": "SCI fen bilimleri, SSCI sosyal bilimler, AHCI ise sanat ve insani bilimler alanındaki dergileri kapsayan indekslerdir."
+  },
+  {
+    "instruction": "Q1, Q2, Q3 ve Q4 çeyreklik dilimleri neyi ifade eder?",
+    "input": "",
+    "output": "Dergilerin etki faktörlerine göre kendi alanlarındaki başarı sıralamasını ifade eder; Q1 en üst %25'lik dilimdir."
+  },
+  {
+    "instruction": "\"Predatory Journal\" (Yağmacı Dergi) nedir?",
+    "input": "",
+    "output": "Akademik niteliği düşük, sadece ücret karşılığı hızlı yayın yapan ve etik kuralları ihlal eden dergilerdir."
+  },
+  {
+    "instruction": "Bir derginin \"Açık Erişim\" (Open Access) olması araştırmacıya ne sağlar?",
+    "input": "",
+    "output": "Yayınlanan makalenin herkes tarafından ücretsiz okunmasını ve daha fazla atıf almasını sağlar."
+  },
+  {
+    "instruction": "\"Blind Peer Review\" (Kör Hakemlik) süreci nasıl işler?",
+    "input": "",
+    "output": "Yazarların ve hakemlerin kimliklerinin birbirinden gizli tutularak makalenin değerlendirilmesi sürecidir."
+  },
+  {
+    "instruction": "Makale gönderiminde \"Cover Letter\" yazmanın amacı nedir?",
+    "input": "",
+    "output": "Editöre çalışmanın önemini, özgünlüğünü ve neden o dergiye uygun olduğunu açıklayan bir niyet mektubudur."
+  },
+  {
+    "instruction": "\"Article Processing Charge\" (APC) ücreti nedir?",
+    "input": "",
+    "output": "Özellikle açık erişim yayıncılıkta, makalenin yayın masrafları için yazardan veya kurumundan talep edilen ücrettir."
+  },
+  {
+    "instruction": "Bir yayında \"Atıf\" (Citation) ve \"Referans\" (Reference) arasındaki fark nedir?",
+    "output": "Atıf metin içindeki göndermedir; referans ise bu göndermenin kaynakça listesindeki tam künyesidir."
+  },
+  {
+    "instruction": "Google Scholar Metrics bir derginin başarısı hakkında hangi bilgiyi verir?",
+    "input": "",
+    "output": "Dergilerin h5-indeksi ve h5-ortancası gibi son 5 yıldaki atıf performans ölçütlerini verir."
+  },
+  {
+    "instruction": "\"Self-Citation\" (Öz Atıf) nedir ve etik sınırı nedir?",
+    "input": "",
+    "output": "Yazarın kendi eski çalışmalarına atıf yapmasıdır; makul düzeyde olmalı, h-indeksini yapay yükseltmek için kullanılmamalıdır."
+  },
+  {
+    "instruction": "ISSN ve ISBN numaraları arasındaki fark nedir?",
+    "input": "",
+    "output": "ISSN süreli yayınlar (dergiler) için, ISBN ise süresiz yayınlar (kitaplar) için kullanılan uluslararası numaradır."
+  },
+  {
+    "instruction": "\"Preprint\" (Baskı Öncesi) sunucuları nedir?",
+    "input": "",
+    "output": "Makalelerin henüz hakem değerlendirmesinden geçmeden paylaşıldığı arXiv, bioRxiv gibi platformlardır."
+  },
+  {
+    "instruction": "Dergi seçiminde kullanılan \"Scimago Journal Rank\" (SJR) nedir?",
+    "input": "",
+    "output": "Dergilerin hem aldığı atıf sayısını hem de atıf yapan derginin prestijini ölçen bir metriktir."
+  },
+  {
+    "instruction": "Bir makalenin \"Ret\" (Rejection) almasının en yaygın akademik sebebi nedir?",
+    "input": "",
+    "output": "Çalışmanın derginin kapsamına girmemesi veya metodolojik hatalar barındırmasıdır."
+  },
+  {
+    "instruction": "\"Minor Revision\" ve \"Major Revision\" arasındaki fark nedir?",
+    "input": "",
+    "output": "Minor küçük düzeltmeleri, Major ise çalışmanın yöntem veya bulgularında ciddi değişiklik gerektiren büyük düzeltmeleri ifade eder."
+  },
+  {
+    "instruction": "Bilimsel araştırmada \"Hipotez\" nedir?",
+    "input": "",
+    "output": "Araştırılan probleme dair ortaya konulan, test edilebilir ve geçici çözüm önerisidir."
+  },
+  {
+    "instruction": "\"P-değeri\" (P-value) istatistiksel olarak neyi ifade eder?",
+    "input": "",
+    "output": "Elde edilen sonuçların tesadüf eseri oluşma olasılığını ölçer; genellikle 0.05'ten küçük olması anlamlı kabul edilir."
+  },
+  {
+    "instruction": "Nicel ve Nitel araştırma yöntemleri arasındaki temel fark nedir?",
+    "input": "",
+    "output": "Nicel araştırma sayısal verilere ve istatistiğe dayanırken, nitel araştırma gözlem ve mülakat gibi yollarla derinlemesine analize dayanır."
+  },
+  {
+    "instruction": "\"Evren\" ve \"Örneklem\" kavramları neyi ifade eder?",
+    "input": "",
+    "output": "Evren araştırmanın kapsadığı tüm grubu, örneklem ise bu grubun içinden seçilen ve üzerinde çalışma yapılan küçük grubu ifade eder."
+  },
+  {
+    "instruction": "Ankete dayalı araştırmalarda \"Güvenirlik\" (Reliability) analizi için hangi test kullanılır?",
+    "input": "",
+    "output": "Çoğunlukla Cronbach's Alpha katsayısı testi kullanılır."
+  },
+  {
+    "instruction": "\"T-Testi\" hangi durumlarda kullanılır?",
+    "input": "",
+    "output": "İki farklı grubun ortalamaları arasında istatistiksel olarak anlamlı bir fark olup olmadığını ölçmek için kullanılır."
+  },
+  {
+    "instruction": "\"Korelasyon\" ve \"Nedensellik\" arasındaki fark nedir?",
+    "input": "",
+    "output": "Korelasyon iki değişken arasındaki ilişkiyi gösterir; nedensellik ise bir değişkenin diğerinin sebebi olduğunu kanıtlar."
+  },
+  {
+    "instruction": "Veri analizinde \"Normal Dağılım\" neden önemlidir?",
+    "input": "",
+    "output": "Birçok parametrik istatistiksel testin uygulanabilmesi için verilerin çan eğrisi şeklinde dağılması ön şarttır."
+  },
+  {
+    "instruction": "\"Likert Ölçeği\" nedir ve hangi tür araştırmalarda kullanılır?",
+    "input": "",
+    "output": "Kişilerin tutumlarını \"Kesinlikle Katılıyorum\"dan \"Kesinlikle Katılmıyorum\"a kadar ölçen dereceli ölçek türüdür."
+  },
+  {
+    "instruction": "Odak grup görüşmesi (Focus Group) hangi araştırma türüne girer?",
+    "input": "",
+    "output": "Nitel (Kalitatif) araştırma türüne girer."
+  },
+  {
+    "instruction": "\"Literatür Taraması\" yaparken neden güncel kaynaklar tercih edilmelidir?",
+    "input": "",
+    "output": "Konunun ulaştığı son bilimsel seviyeyi görmek ve tekrara düşmemek için son 5-10 yıla odaklanmak önemlidir."
+  },
+  {
+    "instruction": "\"Birincil Kaynak\" ve \"İkincil Kaynak\" arasındaki fark nedir?",
+    "input": "",
+    "output": "Birincil kaynak orijinal veriyi sunan eserdir; ikincil kaynak ise o veriyi yorumlayan veya özetleyen eserdir."
+  },
+  {
+    "instruction": "\"Bağımsız Değişken\" ve \"Bağımlı Değişken\" nedir?",
+    "input": "",
+    "output": "Bağımsız değişken araştırmacı tarafından değiştirilen (neden), bağımlı değişken ise buna bağlı olarak değişen sonuçtur."
+  },
+  {
+    "instruction": "Bilimsel çalışmalarda \"Kontrol Grubu\" neden kullanılır?",
+    "input": "",
+    "output": "Deney grubundaki değişimin gerçekten uygulanan yöntemden kaynaklanıp kaynaklanmadığını kıyaslamak için kullanılır."
+  },
+  {
+    "instruction": "\"Pilot Çalışma\" yapmanın araştırmacıya sağladığı fayda nedir?",
+    "input": "",
+    "output": "Ana çalışmaya başlamadan önce yöntemin aksayan yönlerini görmek ve hataları düzeltmek için yapılan küçük ölçekli provadır."
+  },
+  {
+    "instruction": "APA ve MLA atıf sistemleri arasındaki temel fark nedir?",
+    "input": "",
+    "output": "APA daha çok sosyal bilimlerde (yazar-tarih odaklı), MLA ise daha çok filoloji ve sanat alanlarında (yazar-sayfa odaklı) kullanılır."
+  },
+  {
+    "instruction": "Metin içinde \"Et al.\" (ve ark.) ifadesi ne zaman kullanılır?",
+    "input": "",
+    "output": "Çok yazarlı eserlere atıf yaparken ilk yazarın adından sonra diğer yazarları belirtmek için kullanılır."
+  },
+  {
+    "instruction": "Doğrudan alıntı ve dolaylı alıntı (Paraphrasing) arasındaki fark nedir?",
+    "input": "",
+    "output": "Doğrudan alıntı orijinal metni aynen tırnak içinde vermektir; dolaylı alıntı ise fikri kendi kelimelerinizle özetlemektir."
+  },
+  {
+    "instruction": "Akademik yazımda \"Anlatım Bozukluğu\" en çok hangi durumlarda görülür?",
+    "input": "",
+    "output": "Özne-yüklem uyumsuzluğu, gereksiz sözcük kullanımı ve devrik cümle yapılarında görülür."
+  },
+  {
+    "instruction": "Bir tezin \"Tartışma\" bölümünde kendi bulgularınız dışında neye yer verilmelidir?",
+    "input": "",
+    "output": "Bulguların literatürdeki diğer çalışmalarla karşılaştırılmasına ve yorumlanmasına yer verilmelidir."
+  },
+  {
+    "instruction": "\"Ön Söz\" (Preface) ve \"Giriş\" bölümleri arasındaki fark nedir?",
+    "input": "",
+    "output": "Ön söz daha kişisel teşekkürleri içerirken; Giriş bölümü araştırmanın amacını, önemini ve problemini teknik olarak sunar."
+  },
+  {
+    "instruction": "Tablo ve şekil alt yazıları yazılırken hangi kurallara dikkat edilmelidir?",
+    "input": "",
+    "output": "Numaralandırılmalı, kısa ve açıklayıcı olmalı, metin içinde mutlaka atıf yapılmalıdır."
+  },
+  {
+    "instruction": "\"Ekler\" (Appendices) bölümüne hangi tür belgeler konulur?",
+    "input": "",
+    "output": "Anket formları, izin belgeleri, ham veriler veya metni çok uzatacak teknik çizimler konulur."
+  },
+  {
+    "instruction": "Bilimsel dilde \"Belirsiz İfadelerden\" neden kaçınılmalıdır?",
+    "input": "",
+    "output": "Bilimsel anlatım net ve kesin olmalıdır; şüphe uyandıran veya kişisel tahmin belirten ifadeler nesnelliği bozar."
+  },
+  {
+    "instruction": "Bir çalışmanın \"Kısıtlılıkları\" (Limitations) neden dürüstçe yazılmalıdır?",
+    "input": "",
+    "output": "Gelecek araştırmacılara rehberlik etmek ve çalışmanın geçerlilik sınırlarını belirlemek için gereklidir."
+  },
+  {
+    "instruction": "Fırat Üniversitesi Kütüphanesi üzerinden \"Uzaktan Erişim\" nasıl sağlanır?",
+    "input": "",
+    "output": "Üniversitenin web sayfasındaki VETİS sistemi veya Proxy ayarları üzerinden kurumsal e-posta bilgileri ile sağlanır."
+  },
+  {
+    "instruction": "\"ULAKBİM TR Dizin\" nedir ve neden önemlidir?",
+    "input": "",
+    "output": "Türkiye'de yayınlanan nitelikli akademik dergilerin tarandığı ulusal bir veri tabanıdır."
+  },
+  {
+    "instruction": "IEEE Xplore veri tabanı hangi alanlardaki araştırmacılar içindir?",
+    "input": "",
+    "output": "Elektrik-elektronik, bilgisayar mühendisliği ve teknoloji alanındaki araştırmalar için temel veri tabanıdır."
+  },
+  {
+    "instruction": "\"YÖK Akademik\" üzerinden bir araştırmacının yayın geçmişine nasıl ulaşılır?",
+    "input": "",
+    "output": "YÖK Akademik web sitesinden isim sorgulaması yapılarak araştırmacının özgeçmişi ve yayınlarına ulaşılabilir."
+  },
+  {
+    "instruction": "ScienceDirect ve SpringerLink gibi platformların farkı nedir?",
+    "input": "",
+    "output": "Farklı yayınevlerine ait (Elsevier ve Springer) akademik içerik sunan dijital kütüphanelerdir."
+  },
+  {
+    "instruction": "\"Boolean Operatörleri\" (AND, OR, NOT) akademik aramada nasıl kullanılır?",
+    "input": "",
+    "output": "Aramayı daraltmak (AND), genişletmek (OR) veya bazı terimleri hariç tutmak (NOT) için kullanılır."
+  },
+  {
+    "instruction": "ResearchGate ve Academia.edu gibi platformların akademik değeri nedir?",
+    "input": "",
+    "output": "Araştırmacıların yayınlarını paylaştığı sosyal ağlardır; ancak doğrudan birer atıf indeksi değillerdir."
+  },
+  {
+    "instruction": "\"Google Scholar Alerts\" kurmak bir araştırmacıya ne sağlar?",
+    "input": "",
+    "output": "Kendi ilgi alanı veya çalışma konusuyla ilgili yeni bir yayın eklendiğinde e-posta ile bildirim almasını sağlar."
+  },
+  {
+    "instruction": "Bir tezin PDF dosyasını indirirken \"Ulusal Tez Merkezi\"nde hangi kısıtlamalar olabilir?",
+    "input": "",
+    "output": "Yazar tarafından belirli bir süre (ambargo) kısıtlanan tezler tam metin olarak indirilemez."
+  },
+  {
+    "instruction": "Üniversiteye ait patent başvuruları için hangi birime danışılmalıdır?",
+    "input": "",
+    "output": "Üniversitenin Teknoloji Transfer Ofisi (TTO) veya Fikri Mülkiyet Hakları birimine danışılmalıdır."
+  }
+]
+  
