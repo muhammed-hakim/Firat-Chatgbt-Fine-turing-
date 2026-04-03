@@ -1,1 +1,0 @@
-# Firat-Chatgbt-Fine-turing-
